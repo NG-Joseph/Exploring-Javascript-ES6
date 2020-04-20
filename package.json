@@ -1,0 +1,16 @@
+{
+  "name": "es6-primer",
+  "version": "0.0.1",
+  "description": "Nothing Special",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Nwokotubo",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/register": "^7.9.0"
+  }
+}
